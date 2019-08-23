@@ -1,2 +1,2 @@
-# customerlyio
-A .Net customerly interface
+# Customerly.io
+A .Net http://customerly.io interface
